@@ -1,5 +1,8 @@
 # Receita de dupla
-Integrantes:
+Integrantes: 
+<br>
 Felipe Peres
+<br>
 Yuri Vernek
+<br>
 Adelson
