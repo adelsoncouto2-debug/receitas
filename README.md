@@ -1,7 +1,7 @@
 # Receita de dupla
 Integrantes: 
 <br>
-Felipe Peres
+Peres
 <br>
 Yuri Vernek
 <br>
