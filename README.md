@@ -1,8 +1,8 @@
 # Receita de dupla
 Integrantes: 
 <br>
-Felipe Peres
+Felipe
 <br>
-Yuri Vernek
+Yuri
 <br>
 Adelson
